@@ -1,5 +1,8 @@
 _repo: Histoire-du-Bas-Empire-Tome-02_73018
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73018-h/images/cover.jpg
 creator:
   author:
     agent_name: Le Beau, Charles
@@ -29,6 +32,8 @@ creator:
     - https://en.wikipedia.org/wiki/Antoine-Jean_Saint-Martin
     - https://fr.wikipedia.org/wiki/Antoine-Jean_Saint-Martin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73018#Histoire-du-Bas-Empire-Tome-02
 edition_note: Nouvelle édition, revue entièrement, corrigée, et augmentée d'après
   les historiens orientaux
 gutenberg_issued: '2024-02-22'
